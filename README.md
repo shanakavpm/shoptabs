@@ -10,7 +10,7 @@
 ```bash
 git clone <your-repo-url>
 cd shoptabs
-edit .env directly
+edit .env
 ```
 
 **3. Edit `.env`:**
