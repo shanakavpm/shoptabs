@@ -9,8 +9,8 @@
 **2. Setup:**
 ```bash
 git clone <your-repo-url>
-cd purephp
-cp .env.example .env  # or edit .env directly
+cd shoptabs
+edit .env directly
 ```
 
 **3. Edit `.env`:**
