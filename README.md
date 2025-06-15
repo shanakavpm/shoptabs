@@ -6,6 +6,10 @@
 - Docker
 - Git
 
+**Frontend Libraries Used:**
+- [Tailwind CSS](https://tailwindcss.com/) v3.4
+- [Alpine.js](https://alpinejs.dev/) v3.x.x
+
 **2. Setup:**
 ```bash
 git clone <your-repo-url>
