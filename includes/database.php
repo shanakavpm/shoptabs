@@ -1,9 +1,9 @@
 <?php
 
 $host = env('DB_HOST') ?: 'host.docker.internal';
-$dbname = env('DB_DATABASE') ?: 'adphp';
+$dbname = env('DB_DATABASE') ?: 'shoptabs';
 $username = env('DB_USERNAME') ?: 'root';
-$password = env('DB_PASSWORD') ?: '@Saberion123';
+$password = env('DB_PASSWORD') ?: '';
 $port = env('DB_PORT') ?: '3306';
 
 // Database connection configuration
